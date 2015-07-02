@@ -1,6 +1,6 @@
 {
   "name": "node-arabic-number-to-rmb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert arabic number to simple chinese number.",
   "main": "index.js",
   "scripts": {

@@ -138,4 +138,3 @@ function isNumeric(number) {
 }
 
 exports = module.exports = convertCurrency;
-console.log(convertCurrency('9999999.99'));

@@ -1,0 +1,25 @@
+{
+  "name": "node-arabic-to-rmb",
+  "version": "1.0.0",
+  "description": "convert arabic number to simple chinese number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FroadUED/arabicNumberToChineseNumber.git"
+  },
+  "keywords": [
+    "arabic",
+    "number",
+    "chinese",
+    "number"
+  ],
+  "author": "phil.liu.cn@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FroadUED/arabicNumberToChineseNumber/issues"
+  },
+  "homepage": "https://github.com/FroadUED/arabicNumberToChineseNumber"
+}

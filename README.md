@@ -1,4 +1,4 @@
-# arabicNumberToRMB [![Build Status](https://travis-ci.org/git-patrickliu/arabicNumberToRMB.svg?branch=master)](https://travis-ci.org/git-patrickliu/arabicNumberToRMB/)
+# arabicNumberToRMB [![Build Status](https://travis-ci.org/FroadUED/arabicNumberToRMB.svg?branch=master)](https://travis-ci.org/FroadUED/arabicNumberToRMB/)
 This is a node tool to convert arabic number to RMB.
 
 ## Usage

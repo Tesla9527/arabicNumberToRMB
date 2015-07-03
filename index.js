@@ -15,7 +15,7 @@ var chNumberArr = ['零', '壹', '贰', '叁', '肆', '伍', '陆', '柒', '捌'
 function convertCurrency(currencyDigits) {
 
     if(!isNumeric(currencyDigits)) {
-        return '';
+        return 'error';
     }
 
     // make sure currencyDigits is a string

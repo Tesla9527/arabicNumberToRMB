@@ -1,6 +1,6 @@
 {
   "name": "node-arabic-number-to-rmb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "convert arabic number to simple chinese number.",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/FroadUED/arabicNumberToChineseNumber/issues"
   },
-  "homepage": "https://github.com/FroadUED/arabicNumberToChineseNumber"
+  "homepage": "https://github.com/FroadUED/arabicNumberToChineseNumber",
+  "devDependencies": {
+    "gulp-mocha": "^2.1.2",
+    "mocha": "^2.2.5",
+    "gulp": "^3.9.0"
+  }
 }
